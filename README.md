@@ -3,6 +3,8 @@
 Repository to track the progress of the [NWO Open Science Fund](https://www.nwo.nl/en/news/30-new-projects-launched-in-second-round-open-science-fund)
 grant accepted for the CDK in 2023.
 
+* The CDK in the Dutch Research Software Directory: https://research-software-directory.org/software/cdk
+
 ## Abstract
 
 Cheminformatics is the research field that deals with information about chemical systems. This includes the
