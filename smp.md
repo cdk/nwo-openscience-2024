@@ -153,24 +153,28 @@ Use appropriate package managers to allow users to install/deploy your software 
 
 ### The Chemistry Development Kit
 
-...
+The CDK library itself is distributed via various channels, including [GitHub](https://github.com/cdk/cdk/releases), [Zenodo](https://zenodo.org/doi/10.5281/zenodo.592588),
+[Maven Central](https://search.maven.org/search?q=g:org.openscience.cdk), and Linux distributions like [Debian GNU/Linux](http://packages.debian.org/libcdk-java) and [Ubuntu](https://packages.ubuntu.com/libcdk-java).
+
+But it is also reused in many other tools, like the research software which we will update to the latest CDK (see [Work Package 2](https://github.com/cdk/nwo-openscience-2024/issues?q=is%3Aissue+is%3Aopen+label%3AWP2)).
 
 ### Research software for which patches will be developed
 
-to be written ...
+Because the release management of the other tools we will develop patches for, we do not necessarily have control over this. Fortunately,
+most of those release managers are active member of the CDK community.
 
+The patches will be shared as git branches with matching pull requests. We will explore an appropriate way to archive those, with as default backup a dump with `git am` (if not merged in before
+the end of the grant, we will release those on Zenodo).
 
-Signature
+# Signature
 
 The authors of this document will ensure that this Software Management Plan is carried out as specified above.
 
 
-Name:			……
+Name: Egon Willighagen
 
-Affiliation:		……
+Affiliation: Maastricht University
 
-Date:			……
+Date:			
 
-Signature:		……
-
-(please copy this section if needed)
+Signature:		
