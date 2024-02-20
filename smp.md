@@ -4,19 +4,20 @@ Modelled after the eScience Center [2023 template](https://www.esciencecenter.nl
 
 ## 1. Please provide a brief description of your software, stating its purpose and intended user community.
 
-Some aspects to be considered: 
-    • What is the purpose of the software?
-    • What is the software’s intended user community?
-    • Why are you developing this and not reusing existing software? 
+The [Chemistry Development Kit](https://cdk.github.io/) is an open source, Java cheminformatics library that has been developed for already 25 years
+and has been used in [numerous research papers](https://openalex.org/works?page=1&filter=default.search%3A%22chemistry%20development%20kit%22&sort=relevance_score%3Adesc&group_by=publication_year,open_access.is_oa,authorships.institutions.lineage,type).
+The purpose is to enable the development of research software to answer chemical and biochemical questions.
 
 ## 2. Which version control system will you use to manage your source code? 
-By default, the eScience Center uses git and public GitHub repositories. Please state if there is any reason to manage version control in a different way for your project. 
+Git and hosted on [GitHub](https://github.com/cdk/cdk) and [SourceForge](https://sourceforge.net/projects/cdk/).
 
 ## 3. How will you make your software publicly available? Please provide links to the software if this is already the case.
-Software created in eScience Center projects is always made publicly available using GitHub, the Research Software Directory and Zenodo, unless explicitly agreed otherwise before the submission of the proposal.
+
+The CDK is being released via [GitHub](https://github.com/cdk/cdk/releases), [Zenodo](https://zenodo.org/doi/10.5281/zenodo.592588),
+[Maven Central](https://search.maven.org/search?q=g:org.openscience.cdk), and Linux distributions like [Debian GNU/Linux](http://packages.debian.org/libcdk-java).
 
 ## 4. What licence will your software have?
-The eScience Center uses the Apache-2 licence for all software we create. The use of a different license must be explicitly agreed upon before the submission of the project. Please contact us if there is any reason to use a different licence, for example because existing software or libraries will be used with an incompatible licence (such as GPL). 
+[GNU Lesser General Public License v2.1](https://github.com/cdk/cdk/blob/main/LICENSE.txt) 
 
 ## 5. What measures will be taken during the project to ensure the long-term sustainability of the software developed in the project? (max. 300 words)
 Some examples include:
