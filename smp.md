@@ -98,85 +98,99 @@ for many years more.
 
 ### The Chemistry Development Kit
 
-...
+The CDK is currently maintained by an international team of developers consisting of Egon Willighagen
+(applicant) and John Mayfield (UK).
 
 ### Research software for which patches will be developed
 
-to be written ...
-
+No special measure will be taken. The software has been selected because it is actively used.
 
 ## 7. What resources are needed to ensure the long-term usability and availability of the software, and how will these resources be funded or obtained? (max. 300 words)
 
-Some examples include:
-    • Storage or compute infrastructure to host the software.
-    • RSEs to maintain the software and support the community that uses it.
-    • A user support desk.
-
 ### The Chemistry Development Kit
 
-...
+Because of a open science nature, the adoption of continuous integration, peer review, and coding
+standards, the CDK project has been operating on minimal maintenance cost. Development has
+been funding by research projects.
 
 ### Research software for which patches will be developed
 
-to be written ...
+Software has been selected because of active use. Continued, yearly funding to support upgrading software using
+the CDK is most welcome, but is also driven by users of these softwares. Various tools are used by SMEs and
+even developed by SMEs or research institutes, like AMBIT, ToxTree, PaDEL, and OpenChrom. Other software is not.
 
 ## 8. Are there other measures that will be taken to promote the software’s longevity? (max. 300 words)
-Some examples include:
-    • Additional project proposals which will help to further develop the software.
-    • The software is integrated into teaching in a course on the Bachelor or Master level.
-    • Outreach though mainstream media such as newspaper articles, blogs. YouTube videos, tweets, etc.
 
-### The Chemistry Development Kit
+During the project will we disseminate our efforts via GitHub: https://github.com/cdk/nwo-openscience-2024/issues
+Releases of updated software will be announced via the social media account of the CDK.
+General nodes on how to update software in case of API changes will be added to (at least) the
+[Groovy cheminformatics with the CDK](https://egonw.github.io/cdkbook/migration.html) book.
 
-...
-
-### Research software for which patches will be developed
-
-to be written ...
+The final hackathon will invite users of the CDK, the CDK-upgraded software listed above, as
+well as users of other CDK-using software.
 
 ## 9. How will your software be documented? Please provide a link to the documentation, if available.
-Software will be documented for different users (user documentation, developer documentation). If you have any (additional) plans on how your software will be documented (e.g. creating tutorials, incorporating it in teaching, etc.) please specify.
 
 ### The Chemistry Development Kit
 
-...
+The CDK has strict requirements on documentation and APIs are described with JavaDoc.
 
 ### Research software for which patches will be developed
 
-to be written ...
+No functional changes will be made to this software and we expect no additional documentation will be needed.
 
 ## 10. How will your software document its installation requirements? Please provide a link to the installation documentation, if available.
-Explain system requirements (e.g. dependencies) for deploying the software and instructions for installation and testing.
 
 ### The Chemistry Development Kit
 
-...
+The existing installation requirements are not expected to change.
+Current instructions are found at https://github.com/cdk/cdk/blob/main/README.md
 
 ### Research software for which patches will be developed
 
-to be written ...
+When needed, installation instructions will be updated. But whenever possible, the updates to the software to the
+latest CDK will be invisible to the user and not require changes in the installation instructions. Of course,
+CDK 2.9 will be needed, instead of the currently older CDK version.
+
+During the project we will collect instructions when missing in our project issue
+at https://github.com/cdk/nwo-openscience-2024/issues and when appropriate, additional patches
+for the updated software will be written.
 
 ## 11. How will you enable citation of your software by users? Please provide a link to software citation data and/or DOI if available.
-The eScience Center uses the Citation File Format (CFF) to provide citation metadata for software, and Zenodo to provide DOIs for software releases. Please specify if there are reasons to use a different approach. 
 
 ### The Chemistry Development Kit
 
-...
+A pull request for the missing `CITATION.cff` for the CDK has been submitted: https://github.com/cdk/cdk/pull/1055
+
+The information was already given in the `README.md` and the three main CDK papers have been cited 192 times since
+2023, according to Google Scholar.
 
 ### Research software for which patches will be developed
 
-to be written ...
+We will create `CITATION.cff` for all Git repositories for which we will develop patches. This will not
+provide information on how to cite the patches. We will discuss with the maintainers how the patches will
+be acknowledged.
 
 ## 12. How will your software be tested? Please provide a link to automated testing results, if available.
-Incorporate tests to ensure your software works and continues to work as intended. Different types of testing (unit, functional, integration, linting, typing, regression, etc.) could be used. Coverage tools should also be used to assess the extent of the tested code.
 
 ### The Chemistry Development Kit
 
-...
+The CDK has a growing test suite that is run for every pull request, along with a human peer review process
+performed by a senior CDK developer. Additional testing for coverage and code quality is done with sonarcloud
+and results are available from https://sonarcloud.io/project/overview?id=cdk
 
 ### Research software for which patches will be developed
 
-to be written ...
+* KNIME (CDK Nodes): [testing protocol](https://docs.knime.com/latest/analytics_platform_new_node_quickstart_guide/index.html#_introduction)
+* rcdk: 
+* AMBIT
+* JChemPaint
+* ToxTree
+* DECIMER
+* ChemViz (Cytoscape)
+* OpenChrom
+* PaDEL-descriptor
+
 
 ## 13. How will your software be packaged and distributed? Please provide a link to available packaging information (e.g. entry in a packaging registry, if available).
 Use appropriate package managers to allow users to install/deploy your software with ease. Examples include PyPI, CRAN, NPM, Maven, Crates, conda, etc.
