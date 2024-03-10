@@ -16,7 +16,17 @@ The purpose is to enable the development of research software to answer chemical
 
 ### Research software for which patches will be developed
 
-to be written ...
+The grant will also aim to update various software that uses the CDK, as described in the proposal:
+
+* [KNIME (CDK Nodes)](https://github.com/cdk/nodes4knime)
+* [rcdk](https://github.com/CDK-R/cdkr)
+* [AMBIT](https://sourceforge.net/projects/ambit/)
+* [JChemPaint](https://github.com/JChemPaint/jchempaint)
+* [ToxTree](https://sourceforge.net/p/toxtree/)
+* [DECIMER](https://github.com/Kohulan/DECIMER-Java)
+* [ChemViz (Cytoscape)](https://github.com/RBVI/chemViz2)
+* [OpenChrom](https://github.com/Openchrom/openchrom)
+* [PaDEL-descriptor](https://yapcwsoft.com/dd/padeldescriptor/)
 
 ## 2. Which version control system will you use to manage your source code? 
 
@@ -26,7 +36,15 @@ Git and hosted on [GitHub](https://github.com/cdk/cdk) and [SourceForge](https:/
 
 ### Research software for which patches will be developed
 
-to be written ...
+* [KNIME (CDK Nodes)](https://github.com/cdk/nodes4knime): Git
+* [rcdk](https://github.com/CDK-R/cdkr): Git
+* [AMBIT](https://sourceforge.net/projects/ambit/): Git
+* [JChemPaint](https://github.com/JChemPaint/jchempaint): Git
+* [ToxTree](https://sourceforge.net/p/toxtree/): Git
+* [DECIMER](https://github.com/Kohulan/DECIMER-Java): Git
+* [ChemViz (Cytoscape)](https://github.com/RBVI/chemViz2): Git
+* [OpenChrom](https://github.com/Openchrom/openchrom): Git
+* [PaDEL-descriptor](https://yapcwsoft.com/dd/padeldescriptor/)
 
 ## 3. How will you make your software publicly available? Please provide links to the software if this is already the case.
 
@@ -37,18 +55,28 @@ The CDK is being released via [GitHub](https://github.com/cdk/cdk/releases), [Ze
 
 ### Research software for which patches will be developed
 
-to be written ...
+For all the git repositories, forks will be created where patches will be developed in git branches.
+Git branches will be archived at the end of the project, as patch files on Zenodo.
 
 ## 4. What licence will your software have?
 
 ### The Chemistry Development Kit
 
-[GNU Lesser General Public License v2.1](https://github.com/cdk/cdk/blob/main/LICENSE.txt) 
+All patches for the CDK will use the same license as the CDK: [GNU Lesser General Public License v2.1](https://github.com/cdk/cdk/blob/main/LICENSE.txt) 
 
 ### Research software for which patches will be developed
 
-to be written ...
+All patches for the updated software will be released under the same license as those projects:
 
+* KNIME (CDK Nodes): LGPL
+* rcdk: LGPL
+* AMBIT: LGPL
+* JChemPaint: LGPL
+* ToxTree: GPL v2
+* DECIMER: MIT
+* ChemViz (Cytoscape): LGPL
+* OpenChrom: EPL 1.0
+* PaDEL-descriptor: public domain
 
 ## 5. What measures will be taken during the project to ensure the long-term sustainability of the software developed in the project? (max. 300 words)
 
@@ -61,8 +89,10 @@ the cheminformatics platform.
 
 ### Research software for which patches will be developed
 
-to be written ...
-
+By updating the third-party software, we contribute to relevance of the software. The upgrade to a recent
+CDK version will make the software more accurate and faster. These software have been chosen based on their
+use, and many have been sustained for many years already. By updating them, we intend to keep them relevant
+for many years more.
 
 ## 6. What measures will be taken to support the software after completion of the project? (max. 300 words)
 
