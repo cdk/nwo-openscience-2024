@@ -182,15 +182,14 @@ and results are available from https://sonarcloud.io/project/overview?id=cdk
 ### Research software for which patches will be developed
 
 * KNIME (CDK Nodes): [testing protocol](https://docs.knime.com/latest/analytics_platform_new_node_quickstart_guide/index.html#_introduction)
-* rcdk: 
-* AMBIT
-* JChemPaint
-* ToxTree
-* DECIMER
-* ChemViz (Cytoscape)
-* OpenChrom
-* PaDEL-descriptor
-
+* rcdk: [rcdk GitHub Actions](https://github.com/CDK-R/cdkr/actions), [rcdklibs GitHub Actions](https://github.com/CDK-R/rcdklibs/actions)
+* AMBIT: to be determined
+* JChemPaint: no GitHub Actions set up yet
+* ToxTree: to be determined
+* DECIMER: no GitHub Actions set up
+* ChemViz (Cytoscape): no GitHub Actions set up yet
+* OpenChrom: [GitHub Actions](https://github.com/OpenChrom/openchrom/actions)
+* PaDEL-descriptor: no GitHub Actions set up yet
 
 ## 13. How will your software be packaged and distributed? Please provide a link to available packaging information (e.g. entry in a packaging registry, if available).
 Use appropriate package managers to allow users to install/deploy your software with ease. Examples include PyPI, CRAN, NPM, Maven, Crates, conda, etc.
