@@ -183,7 +183,7 @@ and results are available from https://sonarcloud.io/project/overview?id=cdk
 
 * KNIME (CDK Nodes): [testing protocol](https://docs.knime.com/latest/analytics_platform_new_node_quickstart_guide/index.html#_introduction)
 * rcdk: [rcdk GitHub Actions](https://github.com/CDK-R/cdkr/actions), [rcdklibs GitHub Actions](https://github.com/CDK-R/rcdklibs/actions)
-* AMBIT: to be determined
+* AMBIT: [GitHub Actions](https://github.com/ideaconsult/ambit-docker/actions)
 * JChemPaint: no GitHub Actions set up yet
 * ToxTree: to be determined
 * DECIMER: no GitHub Actions set up
