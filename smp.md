@@ -2,8 +2,8 @@
 
 Modelled after the eScience Center [2023 template](https://www.esciencecenter.nl/wp-content/uploads/2023/01/SS-2023-3.-Template-Software-Management-Plan-2023.docx).
 
-This software management plan covers two aspects of this project. First, it will cover the Chemistry Development Kit (CDK) itself, but with also cover the
-management of software patches developed in this project. The tools this project will upgrade are not under our direct control, but each is open source, and
+This software management plan covers two aspects of this project. First, it will cover the Chemistry Development Kit (CDK) itself, but will also cover the
+management of software patches developed in this project. The tools in this project will upgrade are not under our direct control, but each is open source, and
 for several we are in direct contact with the developers.
 
 ## 1. Please provide a brief description of your software, stating its purpose and intended user community.
