@@ -12,8 +12,12 @@
 * to help find the maven modules that are dependencies
 * what functionality is being used
 * record larger dependency eco-system (e.g. which tools depend on this tool)
+  * being reused in Squonk, Bioclipse, VHP4Safety
 * how the code is being compile and executed
+  * only `.java`files were in the source drop
+  * a Maven build set up was written from scratch
 * how to the code is tested
+  * `java -jar target/smartcyp.jar -png -smiles "CC(=O)Nc1ccc(O)cc1"` (added to a new `README`)
 
 ## Upgrading tools
 * CDK API change affected the upgrade
