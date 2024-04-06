@@ -16,7 +16,9 @@
 * how to the code is tested
 
 ## Upgrading tools
-* what CDK API change affected the upgrade (e.g. SMARTCyp to CDK 2.0 has IMolecule2IAtomContainer and IChemObjectBuilder)
+* CDK API change affected the upgrade
+  * `IMolecule` to `IAtomContainer`: https://github.com/cdk/smartcyp/commit/50e48dbe13e33f73300e9bf8876a80ae7c52ee42
+  *  `IChemObjectBuilder`: https://github.com/cdk/smartcyp/commit/4573c0dbf00ef2866f9a01fc9bee5fe0a285572c
 * what testing results before and after the upgrade
   * who was involved?
 
