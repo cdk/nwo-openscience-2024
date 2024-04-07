@@ -28,7 +28,8 @@
 
 ## Reporting results
 * where were the results announced?
-  * https://github.com/christinadebruynkops/GLORYx/issues/5  
+  * https://github.com/christinadebruynkops/GLORYx/issues/5
+  * https://chem-bla-ics.linkedchemistry.info/2024/04/07/cdk2024.html
 * how was the upgrade received/ used?
 
   
