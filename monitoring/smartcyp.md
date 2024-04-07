@@ -28,6 +28,7 @@
 
 ## Reporting results
 * where were the results announced?
+  * https://github.com/christinadebruynkops/GLORYx/issues/5  
 * how was the upgrade received/ used?
 
   
