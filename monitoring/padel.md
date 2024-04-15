@@ -1,12 +1,12 @@
-# Name of the tool
+# PaDEL Descriptor
 * https://github.com/cdk/nwo-openscience-2024/issues/19
 
 We want to report for each tool being upgraded the following things:
 
 ## Source code
-* where to download the source code
-* which CDK version where they using (SMARTCyp 2.4.2 was using CDK 1.4.8)
-* what website to link to / how to acknowledge the previous source
+* where to download the source code: http://padel.nus.edu.sg/software/padeldescriptor
+* which CDK version where they using (PaDEL Descriptor version 2.21 was using CDK 1.4.15)
+* what website to link to / how to acknowledge the previous source --> to be clarified
 
 ## Code analysis
 * which Java packages are being used
