@@ -4,7 +4,7 @@
 We want to report for each tool being upgraded the following things:
 
 ## Source code
-* where to download the source code: http://padel.nus.edu.sg/software/padeldescriptor
+* where to download the source code: http://yapcwsoft.com/dd/padeldescriptor/
 * which CDK version where they using (PaDEL Descriptor version 2.21 was using CDK 1.4.15)
 * what website to link to / how to acknowledge the previous source --> to be clarified
 
