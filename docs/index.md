@@ -24,22 +24,22 @@ The meeting will consists of one day with talks, discussion, and planning. The o
 
 ## Day 1: Talks
 
-9:00 - 10:00 Walk-in and meet up with old and new friends
-10:00 - 10:15 Welcome and introduction [Egon]
-10:15 - 12:00 talks
-12:00 - 13:00 Lunch
-13:00 - 17:00 Talks
+* 9:00 - 10:00 Walk-in and meet up with old and new friends
+* 10:00 - 10:15 Welcome and introduction [Egon]
+* 10:15 - 12:00 talks
+* 12:00 - 13:00 Lunch
+* 13:00 - 17:00 Talks
 
 Dinner will be organized but at own cost (interested sponsers can email Egon).
 
 ## Day 2: Hackathon
 
-9:00 - 9:30 Welcome, introduction, and self-organizing
-9:30 - 12:00 Hacking
-12:00 - 13:00 Lunch
-13:00 - 16:00 Hacking
-16:00 - 16:30 Reporting on results
-16:30 - 17:00 Closing
+* 9:00 - 9:30 Welcome, introduction, and self-organizing
+* 9:30 - 12:00 Hacking
+* 12:00 - 13:00 Lunch
+* 13:00 - 16:00 Hacking
+* 16:00 - 16:30 Reporting on results
+* 16:30 - 17:00 Closing
 
 ## Venue and tips
 
