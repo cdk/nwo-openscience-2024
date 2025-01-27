@@ -14,9 +14,10 @@ You can register for the meeting via this Google Form: [https://edu.nl/496c9](ht
 
 ## Confirmed talks
 
-* Dr John Mayfield (NextMove): "What's New"
+* Dr [John Mayfield](https://orcid.org/0000-0001-7730-2646) ([NextMove](https://www.nextmovesoftware.com/)): "What's New"
 * University of Jena
 * IdeaConsult Ltd
+* Dr [Egon Willighagen](https://orcid.org/0000-0001-7542-0286) ([Maastricht University](https://www.maastrichtuniversity.nl/)) "The Chemistry Development Kit 2025 project"
 
 ## Schedule
 
