@@ -43,7 +43,10 @@ Dinner will be organized but at own cost (interested sponsers can email Egon).
 
 ## Venue and tips
 
-The meeting will be held at the Randwijck Campus of Maastricht University. Public transport is quite good (e.g. use [9292](https://9292.nl/en/) for planning),
+The meeting will be held at the [Faculty of Health, Medicine & Life Sciences](https://www.google.com/maps/place/Faculty+of+Health,+Medicine+%26+Life+Sciences+-+Maastricht+University/@50.8357256,5.7163979,18.06z/data=!4m6!3m5!1s0x47c0e98471f9df77:0x469545144e970532!8m2!3d50.8364416!4d5.716634!16s%2Fg%2F11cs9yvwcq?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D)
+at the [Randwijck Campus](https://www.maastrichtuniversity.nl/file/randwyckcampuspdf)
+of [Maastricht University](https://www.maastrichtuniversity.nl/) (Address: Universiteitssingel 30-60).
+Public transport is quite good (e.g. use [9292](https://9292.nl/en/) for planning),
 and a hotel near Randwijck (e.g. the [NH Hotel](https://www.nh-hotels.com/en/hotel/nh-maastricht/map)),
 next to the main strain station, or in the city center both have their own charm. There is a train station
 next to the campus, and several busses from the main station.
