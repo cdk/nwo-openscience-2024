@@ -19,7 +19,7 @@ You can register for the meeting via this Google Form: [https://edu.nl/496c9](ht
 * Lyudvika Radeva ([Ideaconsult Ltd](https://www.ideaconsult.net/), [University of Plovdiv](https://uni-plovdiv.bg/en/)): "Ambit-SLN. Processing of chemical objects via SYBYL Line Notation (SLN)"
 * Dr [Egon Willighagen](https://orcid.org/0000-0001-7542-0286) ([Maastricht University](https://www.maastrichtuniversity.nl/)): "The Chemistry Development Kit 2025 project"
 * Prof dr [Sonja Herres-Pawlis](https://orcid.org/0000-0002-4354-4353) ([RWTH Aachen University](https://www.rwth-aachen.de/)): "News from the InChI: making the InChI FAIR and including inorganics"
-* Dr [Zhixu Nu](https://orcid.org/0000-0003-3662-2621) ([TU Dresden](https://fedorovalab.net/team/zhixu-ni/)https://fedorovalab.net/team/zhixu-ni/): "A Fuzzy Solution for Lipid Structures Using CXSMILES"
+* Dr [Zhixu Ni](https://orcid.org/0000-0003-3662-2621) ([TU Dresden](https://fedorovalab.net/team/zhixu-ni/)https://fedorovalab.net/team/zhixu-ni/): "A Fuzzy Solution for Lipid Structures Using CXSMILES"
 
 ## Schedule
 
