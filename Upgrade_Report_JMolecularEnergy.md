@@ -9,25 +9,25 @@ Link to github issue trackter:  https://github.com/cdk/nwo-openscience-2024/iss
 ## Code analysis
 	•	JMolecularEnergy uses Java code synthax 1.8.
 	•	to help find the maven modules that are dependencies:
-	◦	org.openscience.cdk
-	•	compile: cdk-core, cdk-interfaces, cdk-standard, cdk-charges, cdk-ctab, cdk-reaction, cdk-dict, cdk-valencycheck, cdk-atomtype, cdk-isomorphism, cdk-smarts, cdk-ioformats.
-	•	test:  cdk-io, cdk-data
-	◦	org.hamcrest:
-	•	test: hamcrest-core
-	◦	javax.vecmath:
-	•	compile: vecmath
+		◦	org.openscience.cdk:
+			•	compile: cdk-core, cdk-interfaces, cdk-standard, cdk-charges, cdk-ctab, cdk-reaction, cdk-dict, cdk-valencycheck, cdk-atomtype, cdk-isomorphism, cdk-smarts, cdk-ioformats.
+			•	test:  cdk-io, cdk-data
+		◦	org.hamcrest:
+			•	test: hamcrest-core
+		◦	javax.vecmath:
+			•	compile: vecmath
 	•	what functionality is being used: see list above.
-	◦	JMolecularEnergy is a Java library for calculating force fields, molecular dynamics, and QSAR.
+		◦	JMolecularEnergy is a Java library for calculating force fields, molecular dynamics, and QSAR.
 	•	record larger dependency eco-system (e.g. which tools depend on this tool)
-	◦	none
+		◦	none
 	•	how the code is being compile and executed
-	◦	JMolecularEnergy is a library with a public API: to compile use "mvn clean install"
+		◦	JMolecularEnergy is a library with a public API: to compile use "mvn clean install"
 	•	how the code is tested
 "mvn test"
  
 ## Upgrading tools
 	•	what CDK API change affected the upgrade to 2.9. No API changes for JMolecularEnergy.
 	•	what testing results before and after the upgrade.
-	◦	No failures or errors were reported before or after the upgrade.
+		◦	No failures or errors were reported before or after the upgrade.
 	•	who was involved?
-	◦	RvdPloeg
+		◦	RvdPloeg
