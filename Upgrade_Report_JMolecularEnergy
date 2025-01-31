@@ -1,12 +1,12 @@
-JMolecularEnergy
+# JMolecularEnergy
 Link to github issue trackter:  https://github.com/cdk/nwo-openscience-2024/issues/32
  
-JMolecularEnergy
+## JMolecularEnergy
 	•	source code:  https://github.com/RamiManaf/JMolecularEnergy
 	•	JMolecularEnergy version 1.0.1-SNAPSHOT was using CDK 2.8 and is now applying CDK 2.10.
 	•	what website to link to / how to acknowledge the previous source: https://ramimanaf.github.io/JMolecularEnergy/
  
-Code analysis
+## Code analysis
 	•	JMolecularEnergy uses Java code synthax 1.8.
 	•	to help find the maven modules that are dependencies:
 	◦	org.openscience.cdk
@@ -25,7 +25,7 @@ Code analysis
 	•	how the code is tested
 "mvn test"
  
-Upgrading tools
+## Upgrading tools
 	•	what CDK API change affected the upgrade to 2.9. No API changes for JMolecularEnergy.
 	•	what testing results before and after the upgrade.
 	◦	No failures or errors were reported before or after the upgrade.
