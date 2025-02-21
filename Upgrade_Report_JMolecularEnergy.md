@@ -23,7 +23,7 @@ Link to github issue trackter:  https://github.com/cdk/nwo-openscience-2024/iss
 	•	how the code is being compile and executed
 		◦	JMolecularEnergy is a library with a public API: to compile use "mvn clean install"
 	•	how the code is tested
-"mvn test"
+		◦	"mvn test"
  
 ## Upgrading tools
 	•	what CDK API change affected the upgrade to 2.9. No API changes for JMolecularEnergy.
@@ -31,3 +31,8 @@ Link to github issue trackter:  https://github.com/cdk/nwo-openscience-2024/iss
 		◦	No failures or errors were reported before or after the upgrade.
 	•	who was involved?
 		◦	RvdPloeg
+
+## Reporting results
+    • where were the results announced? 
+    • how was the upgrade received/ used? 
+        ◦	See github.
