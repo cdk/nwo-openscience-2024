@@ -6,11 +6,11 @@
 This User Group Meeting is orgnanized by the NWO-funded _The Chemistry Development Kit in 2024: improving cheminformatics research_ grant
 (see doi:[10.3897/rio.10.e124884](https://doi.org/10.3897/rio.10.e124884)) and organized by Egon Willighagen, Rene van der Ploeg, and Marc Teunis.
 
-For questions, please email Egon.
+The hashtag is [#CDK25UGM](https://hashtags-hub.toolforge.org/CDK25UGM).
 
 ## Registration
 
-You can register for the meeting via this Google Form: [https://edu.nl/496c9](https://edu.nl/496c9)
+Registration is closed. If you like to join online (first day only, email Egon.
 
 ## Confirmed talks
 
