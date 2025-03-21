@@ -15,7 +15,7 @@ Registration is closed. If you like to join online (first day only, email Egon.
 ## Confirmed talks
 
 * Dr [John Mayfield](https://orcid.org/0000-0001-7730-2646) ([NextMove](https://www.nextmovesoftware.com/)): "What's New"
-* Dr [Jonas Schaub](https://orcid.org/0000-0003-1554-6666) ([Friedrich Schiller University Jena](https://www.uni-jena.de/en/)) "Scaffolds, Functional Groups, Aglycones: Algorithmic Substructure Identification with CDK"
+* Dr [Jonas Schaub](https://orcid.org/0000-0003-1554-6666) ([Friedrich Schiller University Jena](https://www.uni-jena.de/en/)) "Scaffolds, Functional Groups, Aglycones: Algorithmic Substructure Identification with CDK" [[slides](https://doi.org/10.5281/zenodo.15058009)]
 * Lyudvika Radeva ([Ideaconsult Ltd](https://www.ideaconsult.net/), [University of Plovdiv](https://uni-plovdiv.bg/en/)): "Ambit-SLN. Processing of chemical objects via SYBYL Line Notation (SLN)"
 * Dr [Egon Willighagen](https://orcid.org/0000-0001-7542-0286) ([Maastricht University](https://www.maastrichtuniversity.nl/)): "The Chemistry Development Kit 2025 project"
 * Prof dr [Sonja Herres-Pawlis](https://orcid.org/0000-0002-4354-4353) ([RWTH Aachen University](https://www.rwth-aachen.de/)): "News from the InChI: making the InChI FAIR and including inorganics"
