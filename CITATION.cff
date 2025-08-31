@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: Please cite the following works when citing this project.
+type: grant
+authors:
+  - family-names: Willighagen
+    given-names: Egon
+  - family-names: Teunis
+    given-names: Marc
+  - family-names: De Haan
+    given-names: Alyanne
+doi: 10.3897/RIO.10.E124884
+identifiers:
+  - type: doi
+    value: 10.3897/RIO.10.E124884
+keywords:
+  - Chemistry Development Kit
+title: 'The Chemistry Development Kit in 2024: improving cheminformatics research'
